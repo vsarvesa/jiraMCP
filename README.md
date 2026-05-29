@@ -69,6 +69,13 @@ Open your Claude Desktop config file:
 | Windows  | `%APPDATA%\Claude\claude_desktop_config.json` |
 | Linux    | `~/.config/Claude/claude_desktop_config.json` |
 
+GitHub Copilot setup/configuration in the same style, you can use:
+
+Platform	GitHub Copilot Configuration / Extension Location
+macOS	~/.vscode/extensions/github.copilot-*
+Windows	%USERPROFILE%\.vscode\extensions\github.copilot-*
+Linux	~/.vscode/extensions/github.copilot-*
+
 Add both servers under `"mcpServers"`:
 
 ```json
