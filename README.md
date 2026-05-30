@@ -1,3 +1,8 @@
+Major use case: Utilized GitHub MCP within an Agentic AI framework to analyze source code associated with new user stories, bug fixes, and pull requests. The AI agents review code changes, identify potential coding loopholes, detect defect-prone areas, analyze historical bug patterns, and provide early feedback to development teams without modifying the source code. This enables faster bug detection, improved code quality, and proactive risk identification during the development lifecycle.
+
+Using Jira MCP, the Agentic AI workflow can interact directly with Jira to retrieve user stories, epics, bugs, and other work items. It can also create new bug tickets automatically based on predefined rules, validations, or execution results, enabling end-to-end automated defect management within the AI-driven process flow
+
+
 # Jira + GitHub MCP Servers
 
 Two Model Context Protocol (MCP) servers that let Claude interact with **Jira** and **GitHub** directly from chat.
